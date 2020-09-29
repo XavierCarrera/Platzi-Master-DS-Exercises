@@ -18,6 +18,6 @@ Data is arranged on a site sample, which needed to be manipulated to access data
 
 A recommendation algorithm was developed in order to ease the purchase of ships by a group of investors. A data set of 158 entries was analyzed to assess the needed number of crew members to operate any given ship. The final outcome was a model that was trained to recommend the latter. Consequently, investors can properly calculate the total costs of purchasing any ship.   
 
-**2. Basic Data Science Exercise with Python(3)**
+**3. Basic Data Science Exercise with Python(3)**
 
 A data set is arranged around the DNA information of elfs. This challenges focuses on organizing data, EDA and exporting for later use.  
